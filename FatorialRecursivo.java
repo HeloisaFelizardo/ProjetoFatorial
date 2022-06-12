@@ -5,6 +5,6 @@ puclic class FatorialRecursivo{
 	return n * calcularFatorialRecursivo(n-1)
     }
     public static void main(String[]args{
-	System.out.println(calcularFatorialRecusivo(5));
+	System.out.println(calcularFatorialRecursivo(5));
     }
 }
